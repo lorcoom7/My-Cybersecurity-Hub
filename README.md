@@ -57,5 +57,5 @@ The **NIST Cybersecurity Framework** provides guidelines to manage and reduce cy
 📬 **Let's Connect!**  
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sheldon-brown-cybersecurity/)  
 🐦 Twitter: [X](https://twitter.com/)  
-🌐 Website: [Blog](https://github.com/lorcoom7/)  
+🌐 Website: [Blog](https://github.com/lorcoom7/Default)  
 
